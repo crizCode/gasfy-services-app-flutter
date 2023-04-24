@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "173628835767",
+    "project_id": "gasfy-6c5a7",
+    "storage_bucket": "gasfy-6c5a7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:173628835767:android:45d3d5e95d9fc131fbca32",
+        "android_client_info": {
+          "package_name": "com.villainversiones.app_gasfy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "173628835767-cvdf7m7ivvauck8pp1dd4cchfgqdjbgo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOOVs2e1kw7oOryBKXc5RXI_3qXBXQKHA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "173628835767-cvdf7m7ivvauck8pp1dd4cchfgqdjbgo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
